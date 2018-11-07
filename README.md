@@ -11,4 +11,6 @@ Vue.js
 Vue Material library
 TDD, BDD, and unit testing
 Django
+Babel
+Webpack
 FontAwesome
