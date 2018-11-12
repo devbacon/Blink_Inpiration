@@ -23,6 +23,7 @@ FontAwesome - font and icons
 ### Build Tools
 Babel - JS compiler
 Webpack - bundler
+Docker - containerization
 
 ### Deployment
 AWS - deployment services
