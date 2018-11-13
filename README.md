@@ -10,7 +10,7 @@ End goals for this project are to be extremely lightweight and fast. For this, w
 
 ## Technologies used:
 ### Languages
-HTML5, CSS3, ES6
+HTML5, CSS3, ES6, Python3
 
 ### Frameworks
 Vue.js - lightweight and fast performance
